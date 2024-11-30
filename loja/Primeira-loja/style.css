@@ -1,0 +1,114 @@
+*{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+box-sizing: border-box;
+
+}
+
+
+
+.conteiner{
+
+    background-color: rgb(211, 211, 211) ;
+    padding: 50px;
+    min-height: 60vh;
+
+
+
+
+}
+
+header{
+    text-align: center;
+    background-color: rgb(30,144,255) ;
+    padding: 15px ;
+    color: white;
+    border: solid black;
+
+
+}
+
+.produto-image{
+
+    width: 90%;
+    height: 250px;
+    margin-bottom: 25px;
+    
+}
+
+
+.produtos-conteiner{
+
+    margin: auto;
+    max-width: 1200px;
+    
+
+
+}
+
+.cartao{
+
+    width: 31%;
+    margin: 1%;
+    display: inline-block;
+    padding: 15px;
+   
+    
+
+
+}
+
+
+h3{
+
+   font-family: JetBrains Mono ExtraBold;
+    font-size: 25px;
+    color: blue;
+
+
+
+
+}
+
+
+
+
+p{
+
+    font-family:  'Times New Roman', sans-serif;
+    font-size: 15px;
+}
+
+
+.btn{
+
+    background-color: rgb(50,205,50);
+    height: 60px;
+    width: 300px;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Arial black;
+
+
+
+}
+
+.btn:hover{
+
+background-color: rgb(51, 238, 138);
+color: white;
+padding: 20px;
+
+
+}
+
+footer{
+
+    background-color: black;
+    color: white;
+    height: 35px;
+
+
+}
+
